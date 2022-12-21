@@ -1,0 +1,1 @@
+SELECT_ALL = cursor.execute(query).fetchall()
